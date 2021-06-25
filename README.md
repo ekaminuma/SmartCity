@@ -2,7 +2,7 @@
 
 - References
   - 2021/3/29 Computational Urban Science | Deren et al.|[Smart city based on digital twins](https://link.springer.com/article/10.1007/s43762-021-00005-y)
-   - デジタルツインとスマートシティの特性を分析, 5つの主要なアプリケーションに焦点
+    - デジタルツインとスマートシティの特性を分析, 5つの主要なアプリケーションに焦点
 
 - Conferences & Workshops
   - [Smart City Expo 2020](https://www.smartcityexpo.com/2020-awards/)
@@ -17,29 +17,29 @@
 
 
 - Articles
- - 2020/12/1 |東京都都市整備局都市づくり政策部| [都市の３Ｄデジタルマップの実装に向けた検討の全体像](https://www.toshiseibi.metro.tokyo.lg.jp/bunyabetsu/machizukuri//pdf/digital_3_1.pdf)  
+  - 2020/12/1 |東京都都市整備局都市づくり政策部| [都市の３Ｄデジタルマップの実装に向けた検討の全体像](https://www.toshiseibi.metro.tokyo.lg.jp/bunyabetsu/machizukuri//pdf/digital_3_1.pdf)  
    - [ヘルシンキ3D Cityモデル, Virtualシンガポール, バルセロナスマートシティ](https://www.toshiseibi.metro.tokyo.lg.jp/bunyabetsu/machizukuri//pdf/digital_3_2.pdf)  
- - 2020/11/16 | Microsoft | [IoT と Digital Twins で都市の環境をつなぐ](https://azure.microsoft.com/ja-jp/blog/connecting-urban-environments-with-iot-and-digital-twins/)
+  - 2020/11/16 | Microsoft | [IoT と Digital Twins で都市の環境をつなぐ](https://azure.microsoft.com/ja-jp/blog/connecting-urban-environments-with-iot-and-digital-twins/)
    - Azure Digital Twins プラットフォーム
    - Digital Twins Definition Language (DTDL) : モデリング言語
    - [Siemens MindSphere City Graph](https://www.siemens-advanta.com/cases/mindsphere-city-graph) 
      - 電気自動車の充電需要の予測を改善 | Aspern Smart City Research (ASCR) でロールアウト 
      - 1 か所の充電ポールの空き状況, 充電ポイントの空き状況の予測ヒート マップ
      - 
- - 2019/4/5 | [Smart city and CityGML Modeling](https://www.treistek.com/post/smart-city-and-citygml-modeling)
+  - 2019/4/5 | [Smart city and CityGML Modeling](https://www.treistek.com/post/smart-city-and-citygml-modeling)
    - What is GML?
    - What are Smart city models?
    -  Smart City and CityGML
    -  Why Smart City/ CityGML models?
    -  Smart City/ CityGML Models – Project Specifications:
    -  TreisTek and Smart City/ CityGML models ( 10,000 buildings , 20 cities )
- - 2019/1 |Miskinis,C.|[スマートシティを作成するためにデジタルツインをどのように活用するか](https://www.challenge.org/insights/digital-twins-and-smart-cities/) 
+  - 2019/1 |Miskinis,C.|[スマートシティを作成するためにデジタルツインをどのように活用するか](https://www.challenge.org/insights/digital-twins-and-smart-cities/) 
    - スマートシティにおけるデジタルツインの重要性
    - デジタルツインスマートシティプランニング2019＝エネルギー消費、廃棄物管理、セキュリティモニタリング、モビリティの改善、インフラストラクチャ管理はすデジタルツインを通じて改善できる分野 
    - スマートシティの価値
    - 克服すべき課題 
- - 2015| 西脇et al(国際航業株式会社)|[スマートシティの 3D 地理空間表現とコミュニティサービスのためのデータモデル](http://ikaas.com/sites/default/files/ikaas/public/content-files/reviews/Paper5.FIT2015.pdf)
- - 2013/5 |Prandi et al(GraphiTech) |[Using citygml to deploy smart-city services for urban ecosystems](https://www.researchgate.net/publication/243055075_Using_citygml_to_deploy_smart-city_services_for_urban_ecosystems) 
+  - 2015| 西脇et al(国際航業株式会社)|[スマートシティの 3D 地理空間表現とコミュニティサービスのためのデータモデル](http://ikaas.com/sites/default/files/ikaas/public/content-files/reviews/Paper5.FIT2015.pdf)
+  - 2013/5 |Prandi et al(GraphiTech) |[Using citygml to deploy smart-city services for urban ecosystems](https://www.researchgate.net/publication/243055075_Using_citygml_to_deploy_smart-city_services_for_urban_ecosystems) 
    -  ISPRS - International Archives of the Photogrammetry Remote Sensing and Spatial Information Sciences Volume XL-4/W1(4)
 
 
