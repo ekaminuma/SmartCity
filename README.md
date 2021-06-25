@@ -72,6 +72,9 @@
    - スマートシティの価値
    - 克服すべき課題 
   - 2015| 西脇et al(国際航業株式会社)|[スマートシティの 3D 地理空間表現とコミュニティサービスのためのデータモデル](http://ikaas.com/sites/default/files/ikaas/public/content-files/reviews/Paper5.FIT2015.pdf)
+  - 2013/8/1 日本総研 [欧州の環境都市最前線～重要性を増すICTの活用～](https://www.jri.co.jp/page.jsp?id=25860)
+    - 欧州のスマートシティ開発の核はICT活用
+    - ポルトガル共和国リスボン市ではICT活用で65％の節水を達成 = 公園散水の合理化を図る「WeTrig」プロジェクト。市の水道支出の実に71%が公園散水。気象データ（気温、日射、湿度、風況）と土壌データ（含水比等）をセンサーネットワークで収集・分析し、別途整備した植生データベースと突き合わせて、散水量・頻度を最適化して65%もの節水を達成した。
   - 2013/5 |Prandi et al(GraphiTech) |[Using citygml to deploy smart-city services for urban ecosystems](https://www.researchgate.net/publication/243055075_Using_citygml_to_deploy_smart-city_services_for_urban_ecosystems) 
    -  ISPRS - International Archives of the Photogrammetry Remote Sensing and Spatial Information Sciences Volume XL-4/W1(4)
 
