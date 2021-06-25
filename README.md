@@ -26,7 +26,7 @@
      - ドバイヒア=ドバイ市の地理情報システム（GIS）センターが、首長国資産,インフラストラクチャ,およびランドマークの地理空間データと地図へのアクセスを提供するeシステムを立ち上げた。ドバイのEXPOサイトにも130を超える建物をDigitalTwinのテストランとしている。
  
    - 2021/4/8 ASITE株式会社 [Digital Twin: Cities and their digital doppelgangers](https://www.asite.com/blogs/digital-twin-cities-and-their-digital-doppelgangers)
-  　　　-　2019年にダボスで開催された世界経済フォーラムで発表されたインドのアーンドラプラデーシュ州の首都アマラヴァティは、デジタルツインで生まれた最初の都市と考えられている。この都市はデジタルツインを開発するための最新都市ハブで、シンガポール/グラスゴー/ボストンに加わり、これらもこのデジタルテクノロジーを使用している。 
+   　　- 2019年にダボスで開催された世界経済フォーラムで発表された**インドのアーンドラプラデーシュ州の首都アマラヴァティは、DigitalTwinで生まれた最初の都市と考えられている**。この都市はDigitalTwinを開発するための最新都市Hubで、シンガポール/グラスゴー/ボストンに加わった。 
    - 2020/12/1 |東京都都市整備局都市づくり政策部| [都市の３Ｄデジタルマップの実装に向けた検討の全体像](https://www.toshiseibi.metro.tokyo.lg.jp/bunyabetsu/machizukuri//pdf/digital_3_1.pdf)  
    - [ヘルシンキ3D Cityモデル, Virtualシンガポール, バルセロナスマートシティ](https://www.toshiseibi.metro.tokyo.lg.jp/bunyabetsu/machizukuri//pdf/digital_3_2.pdf)  
   - 2020/11/16 | Microsoft | [IoT と Digital Twins で都市の環境をつなぐ](https://azure.microsoft.com/ja-jp/blog/connecting-urban-environments-with-iot-and-digital-twins/)
