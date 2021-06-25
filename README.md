@@ -21,4 +21,7 @@
 
 - 2021/2/16 北海道地図株式会社 | [CityGMLで都市を3Dモデル化！特徴や事例をご紹介](https://www.hcc.co.jp/hcclab/20210216/) 
   - CityGMLの特徴, モジュール, 活用事例など
+- OpenLM | [スマートシティのためのデジタルツインの形成 – レースは始まった](https://www.openlm.com/Japan/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B7%E3%83%86%E3%82%A3%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%84%E3%82%A4%E3%83%B3%E3%81%AE%E5%BD%A2%E6%88%90/) 
+  - Virtual Singapore, Boston, India (ジャイプール,　アマラーヴァティ) 
+  - Microsoft Azure Digital Twin 
 - 株式会社CADCenter | [バーチャルスマートシティ](https://www.cadcenter.co.jp/vsc/)
