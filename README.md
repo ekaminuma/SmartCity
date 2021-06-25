@@ -20,13 +20,15 @@
     - [City's Today](https://cities-today.com/bentley-systems-and-microsoft-team-up-on-digital-twins/) - 持続可能な都市開発に関する分析、コメント、ベストプラクティスを掲載。米国の地方自治体と公的および民間セクターの課題解決のためのグローバルマガジン。モビリティ、スマートテクノロジー、安全性とセキュリティ、レジリエンスにおいて都市のリーダーや地方自治体が直面している課題と機会に焦点を当てている。
 
 - Articles
+   - 2021/6/7 中村彰二朗 [未来都市に移住する「グリーンフィールド型」スーパーシティの要件](https://dcross.impress.co.jp/docs/column/column20210226/002480.html)　 
    - 2021/5/24 CityScape | [The rise of digital twins as blueprints for smart cities](https://www.cityscape-intelligence.com/architecture/rise-digital-twins-blueprints-smart-cities)
      - NASA Apollo13 = 1st Digital Twin Project 
      - 国連によると世界の都市人口は2050年までに70％近くまで膨れ上がり、インフラストラクチャに多大な負担をかけることになります。現在、世界中の市政府は未来の都市を構築するためデジタルツインに目を向けています。
      - ドバイヒア=ドバイ市の地理情報システム（GIS）センターが、首長国資産,インフラストラクチャ,およびランドマークの地理空間データと地図へのアクセスを提供するeシステムを立ち上げた。ドバイのEXPOサイトにも130を超える建物をDigitalTwinのテストランとしている。
  
+   - 2021/4/22 中村彰二朗 [都市のデジタルツインを実現するアーキテクチャーの“あるべき姿](https://dcross.impress.co.jp/docs/column/column20210226/002314.html)
    - 2021/4/8 ASITE株式会社 [Digital Twin: Cities and their digital doppelgangers](https://www.asite.com/blogs/digital-twin-cities-and-their-digital-doppelgangers)
-   　　- 2019年にダボスで開催された世界経済フォーラムで発表された**インドのアーンドラプラデーシュ州の首都アマラヴァティは、DigitalTwinで生まれた最初の都市と考えられている**。この都市はDigitalTwinを開発するための最新都市Hubで、シンガポール/グラスゴー/ボストンに加わった。 
+   　　- 2019年にダボスで開催された世界経済フォーラムで発表された**インドのアーンドラプラデーシュ州の首都アマラヴァティは、DigitalTwinで生まれた最初の都市と考えられている**。この都市はDigitalTwinを開発するための最新都市Hubで、シンガポール/グラスゴー/ボストンに加わった。[Amaravati Smart City - Cityzenith’s SmartWorldPro™ Digital Twin Platform Selected for New Capital City in India](https://cityzenith.com/customers/amaravati-smart-city) 
    - 2020/12/1 |東京都都市整備局都市づくり政策部| [都市の３Ｄデジタルマップの実装に向けた検討の全体像](https://www.toshiseibi.metro.tokyo.lg.jp/bunyabetsu/machizukuri//pdf/digital_3_1.pdf)  
    - [ヘルシンキ3D Cityモデル, Virtualシンガポール, バルセロナスマートシティ](https://www.toshiseibi.metro.tokyo.lg.jp/bunyabetsu/machizukuri//pdf/digital_3_2.pdf)  
   - 2020/11/16 | Microsoft | [IoT と Digital Twins で都市の環境をつなぐ](https://azure.microsoft.com/ja-jp/blog/connecting-urban-environments-with-iot-and-digital-twins/)
@@ -41,6 +43,19 @@
       - MicrosoftのAzure IoT DigitalTwins+AzureMapsがBentley SystemsのiTwins Platformと組み合わされる
 　　　 - エンジニア、建築家、建設業者、都市計画者が包括的な都市規模のデジタルツイン内で作業できるように
        - Dublin’s digital twin = アイルランドのDublin市は、BentleySystemsと協力して大規模なデジタルツインを開発 --> Original記事：City's Today | [ベントレーシステムズとマイクロソフトが都市のデジタルツインで提携](https://cities-today.com/bentley-systems-and-microsoft-team-up-on-digital-twins/)  
+  - 2019/7/23 [グリーンフィールドスマートシティ向けデジタルツイン](https://newcities.org/the-big-picture-digital-twins-for-greenfield-smart-cities/) 
+     - デジタルツインは物理資産のデジタルモデルであり、構築環境から（センサー、ドローン、またはその他のIoTおよびIIoTデータ収集ツールを介して）継続的に情報を収集し、高度分析/機械学習（ML）/人工知能（AI）を適用します。 Digital Twinのユーザーには、大規模な建物の所有者、建物設計の専門家、製造工場のオペレーター、小売物流会社、不動産および施設の管理者、REITSなどが含まれます。
+     - 2018年12月インドのアンドラプラデーシュ州政府によって、65億USDドルのアマラヴァティのデジタルツイン開発にプラットフォームとしてCityZenithが選ばれた。
+     - 都市の設計、構築、管理の方法、さらには民間部門や市民との関係を最適化する。
+     - Amaravatiは世界のデジタル先進グリーンフィールド都市のトップ3ランクインを目指す。アマラヴァティは、新しい州都全体のすべてのレベルで開発、計画、運用、市民の関与に革命をもたらすクラス最高のデジタルツインテクノロジーを組み込むことを目指している。
+     - **政府機関、営利企業、市民が単一のプラットフォームを幅広い目的で使用できるようにカスタマイズ**
+       - リアルタイムの建設進捗監視、環境およびウェルネス監視
+       - ユビキタスなマルチノードIoTセンサー経由高度なモビリティとトラフィックの監視
+       - シミュレーション高度微気候と気候変動の監視とシミュレーション
+       - デジタル「ドラッグアンドドロップ」建築許可申請
+       - デジタルゾーニング、セットバック、環境、交通、およびその他の法定コンプライアンス関連の予備分析
+       - すべての政府情報、通知、フォーム、およびアプリケーションの単一の市民ポータルとして機能
+       - すべてのアマラヴァティ市民のために提案されたデジタルツインユーザーIDスキーム
   - 2019/4/5 | [Smart city and CityGML Modeling](https://www.treistek.com/post/smart-city-and-citygml-modeling)
    - What is GML?
    - What are Smart city models?
