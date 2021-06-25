@@ -48,6 +48,13 @@
    - [Siemens MindSphere City Graph](https://www.siemens-advanta.com/cases/mindsphere-city-graph) 
      - 電気自動車の充電需要の予測を改善 | Aspern Smart City Research (ASCR) でロールアウト 
      - 1 か所の充電ポールの空き状況, 充電ポイントの空き状況の予測ヒート マップ
+  - 2020/11/2 [スマートシティ市場は2025年に2.46兆ドル！フロスト＆サリバンのレポートを分析](https://smartcitylab.world/frostsmartcity)
+     -  2025年までにスマートシティ関連市場は2.46兆ドル、日本円にして257兆円にも上る
+     -  2025年までに26以上の都市がスマートシティ化し、そのうち16は北米とヨーロッパに分布
+     -  2030年までには、スマートシティ市場の7割は北米・西ヨーロッパ・中国となる。
+     -  群衆分析(Crown Analytics)、オープンデータダッシュボード、オンラインシティサービスといった分野が成長する。
+     -  特に群衆分析(Crown Analytics)に関する技術領域は、現在の7.5億ドルから2030年まで20-25％伸びると予測する。
+     -  ポスト・パンデミックには、スマートグリッド、インテリジェント・交通マネジメント、自動運転車、スマートライティング、e-ガバナンスサービス、データに基づくセキュリティ確保などの技術領域への投資が加速すると思われる。
   - 2020/10/21 [Digital twin cities and the future of urban planning](https://www.itu.int/en/myitu/News/2020/10/21/14/15/Digital-twin-cities-Microsoft-Bentley-Systems)
        - デジタルツインは物理的な資産/プロセス/またはシステムのデジタル表現です。これらは当初、製造業および建設業向けの情報集約、分析、および視覚化に開発されました。進化するにつれてデジタルツインは都市ツールとして使用されています。ABI Researchは、2019年のほんの一握りから**2025年までに500を超える都市型デジタルツインが展開される**と予測しています。
       - Bentley SystemsとMicrosoftは、都市計画と市民参加におけるDigitalTwin促進の戦略的提携を発表 
