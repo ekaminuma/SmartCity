@@ -27,8 +27,16 @@
      - ドバイヒア=ドバイ市の地理情報システム（GIS）センターが、首長国資産,インフラストラクチャ,およびランドマークの地理空間データと地図へのアクセスを提供するeシステムを立ち上げた。ドバイのEXPOサイトにも130を超える建物をDigitalTwinのテストランとしている。
  
    - 2021/4/22 中村彰二朗 [都市のデジタルツインを実現するアーキテクチャーの“あるべき姿](https://dcross.impress.co.jp/docs/column/column20210226/002314.html)
+      - GSCAは、日本国内において自治体同士の連携を図るコミュニティ活動を主催。
+      - GSCAに12の自治体が参加。スマートシティ化の中核となる現場の職員が中心となって定期的な意見交換を行い、ベストプラクティスを取り入れる事例も出てきている。 
+      - 群馬県前橋市＝デロイトトーマツがスーパーシティ構想をサポート
+      - 22か国36都市のGSCAパイロット都市
+      - 5つのPolicies (ICTアクセシビリティ,Privacy影響評価,Cyber Accountability,Dig Once,Open Data)
    - 2021/4/8 ASITE株式会社 [Digital Twin: Cities and their digital doppelgangers](https://www.asite.com/blogs/digital-twin-cities-and-their-digital-doppelgangers)
    　　- 2019年にダボスで開催された世界経済フォーラムで発表された**インドのアーンドラプラデーシュ州の首都アマラヴァティは、DigitalTwinで生まれた最初の都市と考えられている**。この都市はDigitalTwinを開発するための最新都市Hubで、シンガポール/グラスゴー/ボストンに加わった。[Amaravati Smart City - Cityzenith’s SmartWorldPro™ Digital Twin Platform Selected for New Capital City in India](https://cityzenith.com/customers/amaravati-smart-city) 
+   　　- Neom（サウジアラビア）、Silk City（クウェート）、Madrid Norte（スペイン）、Nagpur（インド）
+   - 2021/4/2 [未来社会の秩序のために スマートシティ構想はテクノロジーガバナンスが鍵となる](https://forbesjapan.com/articles/detail/40556) 
+     -  
    - 2021/3/10 [国内・海外スマートシティDX事例10選](https://iotnews.jp/archives/163399)
      - GreenField(1.中国[Baidu・Alibabaなど], 2.インド, 3.カナダトロント(Google SidewalkLab), 4.日本・静岡県裾野市[トヨタ],5.5. 日本・福岡県福岡市)
      - BrownField(1.UAE（アラブ⾸⻑国連邦）・ドバイ,2.Singapore,3.Estonia, 4.福島県会津若松市[アクセンチュアなど],5.日本横浜市[東京電力エナジーパートナーなど]) 
@@ -89,3 +97,15 @@
   - Virtual Singapore, Boston, India (ジャイプール,　アマラーヴァティ) 
   - Microsoft Azure Digital Twin 
 - 株式会社CADCenter | [バーチャルスマートシティ](https://www.cadcenter.co.jp/vsc/)
+
+
+---
+
+Cities Alliance
+ - [G20 Global Smart Cities Alliance](https://globalsmartcitiesalliance.org/) = G20 スマートシティ都市連合
+   - 22か国36都市(2021年4月) 
+   - Pioneer Cities Program
+ - [Carbon Neutral Cities Alliance](https://en.wikipedia.org/wiki/Carbon_Neutral_Cities_Alliance)
+   - Yokohama, Japan and others 
+ - [Greenfield Cities Alliance]()
+ - [Japan Smart Cities Alliance](https://globalsmartcitiesalliance.org/?page_id=1698)
