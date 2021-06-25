@@ -10,6 +10,11 @@
    -  Why Smart City/ CityGML models?
    -  Smart City/ CityGML Models – Project Specifications:
    -  TreisTek and Smart City/ CityGML models ( 10,000 buildings , 20 cities )
+ - 2019/1 |Miskinis,C.|[スマートシティを作成するためにデジタルツインをどのように活用するか](https://www.challenge.org/insights/digital-twins-and-smart-cities/) 
+   - スマートシティにおけるデジタルツインの重要性
+   　　-　デジタルツインスマートシティプランニング–2019イベント＝エネルギー消費、廃棄物管理、セキュリティモニタリング、モビリティの改善、インフラストラクチャ管理はすデジタルツインを通じて改善できる分野 
+   - スマートシティの価値
+   - 克服すべき課題 
  - 2015| 西脇et al(国際航業株式会社)|[スマートシティの 3D 地理空間表現とコミュニティサービスのためのデータモデル](http://ikaas.com/sites/default/files/ikaas/public/content-files/reviews/Paper5.FIT2015.pdf)
  - 2013/5 |Prandi et al(GraphiTech) |[Using citygml to deploy smart-city services for urban ecosystems](https://www.researchgate.net/publication/243055075_Using_citygml_to_deploy_smart-city_services_for_urban_ecosystems) 
    -  ISPRS - International Archives of the Photogrammetry Remote Sensing and Spatial Information Sciences Volume XL-4/W1(4)
