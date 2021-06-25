@@ -16,7 +16,8 @@
      - Governance & Economy Award
      - Living & Inclusion Award
    
-
+- Journals
+    - [City's Today](https://cities-today.com/bentley-systems-and-microsoft-team-up-on-digital-twins/) - 持続可能な都市開発に関する分析、コメント、ベストプラクティスを掲載。米国の地方自治体と公的および民間セクターの課題解決のためのグローバルマガジン。モビリティ、スマートテクノロジー、安全性とセキュリティ、レジリエンスにおいて都市のリーダーや地方自治体が直面している課題と機会に焦点を当てている。
 
 - Articles
   - 2020/12/1 |東京都都市整備局都市づくり政策部| [都市の３Ｄデジタルマップの実装に向けた検討の全体像](https://www.toshiseibi.metro.tokyo.lg.jp/bunyabetsu/machizukuri//pdf/digital_3_1.pdf)  
@@ -28,10 +29,12 @@
      - 電気自動車の充電需要の予測を改善 | Aspern Smart City Research (ASCR) でロールアウト 
      - 1 か所の充電ポールの空き状況, 充電ポイントの空き状況の予測ヒート マップ
   - 2020/10/21 [Digital twin cities and the future of urban planning](https://www.itu.int/en/myitu/News/2020/10/21/14/15/Digital-twin-cities-Microsoft-Bentley-Systems)
+       - デジタルツインは物理的な資産/プロセス/またはシステムのデジタル表現です。これらは当初、製造業および建設業向けの情報集約、分析、および視覚化に開発されました。進化するにつれてデジタルツインは都市ツールとして使用されています。ABI Researchは、2019年のほんの一握りから**2025年までに500を超える都市型デジタルツインが展開される**と予測しています。
       - Bentley SystemsとMicrosoftは、都市計画と市民参加におけるDigitalTwin促進の戦略的提携を発表 
       - MicrosoftのAzure IoT DigitalTwins+AzureMapsがBentley SystemsのiTwins Platformと組み合わされる
 　　　 - エンジニア、建築家、建設業者、都市計画者が包括的な都市規模のデジタルツイン内で作業できるように
-      - Dublin’s digital twin = アイルランドのDublin市は、BentleySystemsと協力して大規模なデジタルツインを開発 
+       - Dublin’s digital twin = アイルランドのDublin市は、BentleySystemsと協力して大規模なデジタルツインを開発 
+  　　 - Original記事：City's Today | [ベントレーシステムズとマイクロソフトが都市のデジタルツインで提携](https://cities-today.com/bentley-systems-and-microsoft-team-up-on-digital-twins/)  
   - 2019/4/5 | [Smart city and CityGML Modeling](https://www.treistek.com/post/smart-city-and-citygml-modeling)
    - What is GML?
    - What are Smart city models?
