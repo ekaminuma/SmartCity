@@ -5,6 +5,7 @@
     - デジタルツインとスマートシティの特性を分析, 5つの主要なアプリケーションに焦点
 
 - Conferences & Workshops
+  - 2021/3/22 [AIS2C2 - First International Conference on Artificial Intelligence and Sustainable Computing for Smart Cities](http://aiscindia2021.com/)
   - [Smart City Expo 2020](https://www.smartcityexpo.com/2020-awards/)
      - City Award | Smart Shanghai (Shanghai/CHINA) 
      - Covid-19 Innovation Award | Digital Marketplace in Zambia (NYC/USA)
