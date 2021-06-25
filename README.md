@@ -33,8 +33,7 @@
       - Bentley SystemsとMicrosoftは、都市計画と市民参加におけるDigitalTwin促進の戦略的提携を発表 
       - MicrosoftのAzure IoT DigitalTwins+AzureMapsがBentley SystemsのiTwins Platformと組み合わされる
 　　　 - エンジニア、建築家、建設業者、都市計画者が包括的な都市規模のデジタルツイン内で作業できるように
-       - Dublin’s digital twin = アイルランドのDublin市は、BentleySystemsと協力して大規模なデジタルツインを開発 
-  　　 - Original記事：City's Today | [ベントレーシステムズとマイクロソフトが都市のデジタルツインで提携](https://cities-today.com/bentley-systems-and-microsoft-team-up-on-digital-twins/)  
+       - Dublin’s digital twin = アイルランドのDublin市は、BentleySystemsと協力して大規模なデジタルツインを開発 --> Original記事：City's Today | [ベントレーシステムズとマイクロソフトが都市のデジタルツインで提携](https://cities-today.com/bentley-systems-and-microsoft-team-up-on-digital-twins/)  
   - 2019/4/5 | [Smart city and CityGML Modeling](https://www.treistek.com/post/smart-city-and-citygml-modeling)
    - What is GML?
    - What are Smart city models?
