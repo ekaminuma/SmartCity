@@ -3,6 +3,7 @@
 - References
   - 2021/3/29 Computational Urban Science | Deren et al.|[Smart city based on digital twins](https://link.springer.com/article/10.1007/s43762-021-00005-y)
     - デジタルツインとスマートシティの特性を分析, 5つの主要なアプリケーションに焦点
+  - 2021/3/24 J of Management Science and Engineering | Deng et al.| [A systematic review of a digital twin city: A new pattern of urban governance toward smart cities](https://www.sciencedirect.com/science/article/pii/S2096232021000238) 
 
 - Conferences & Workshops
   - 2021/3/22 [AIS2C2 - First International Conference on Artificial Intelligence and Sustainable Computing for Smart Cities](http://aiscindia2021.com/)
@@ -26,7 +27,11 @@
    - [Siemens MindSphere City Graph](https://www.siemens-advanta.com/cases/mindsphere-city-graph) 
      - 電気自動車の充電需要の予測を改善 | Aspern Smart City Research (ASCR) でロールアウト 
      - 1 か所の充電ポールの空き状況, 充電ポイントの空き状況の予測ヒート マップ
-     - 
+  - 2020/10/21 [Digital twin cities and the future of urban planning](https://www.itu.int/en/myitu/News/2020/10/21/14/15/Digital-twin-cities-Microsoft-Bentley-Systems)
+      - Bentley SystemsとMicrosoftは、都市計画と市民参加におけるDigitalTwin促進の戦略的提携を発表 
+      - MicrosoftのAzure IoT DigitalTwins+AzureMapsがBentley SystemsのiTwins Platformと組み合わされる
+　　　 - エンジニア、建築家、建設業者、都市計画者が包括的な都市規模のデジタルツイン内で作業できるように
+      - Dublin’s digital twin = アイルランドのDublin市は、BentleySystemsと協力して大規模なデジタルツインを開発 
   - 2019/4/5 | [Smart city and CityGML Modeling](https://www.treistek.com/post/smart-city-and-citygml-modeling)
    - What is GML?
    - What are Smart city models?
