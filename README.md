@@ -20,6 +20,7 @@
     - [City's Today](https://cities-today.com/bentley-systems-and-microsoft-team-up-on-digital-twins/) - 持続可能な都市開発に関する分析、コメント、ベストプラクティスを掲載。米国の地方自治体と公的および民間セクターの課題解決のためのグローバルマガジン。モビリティ、スマートテクノロジー、安全性とセキュリティ、レジリエンスにおいて都市のリーダーや地方自治体が直面している課題と機会に焦点を当てている。
 
 - Articles
+   - 2021/6/8 平山雄太 [スマートシティの世界動向](http://www.bbt757.com/servlet/content/46335.html) 
    - 2021/6/7 中村彰二朗 [未来都市に移住する「グリーンフィールド型」スーパーシティの要件](https://dcross.impress.co.jp/docs/column/column20210226/002480.html)　 
    - 2021/5/24 CityScape | [The rise of digital twins as blueprints for smart cities](https://www.cityscape-intelligence.com/architecture/rise-digital-twins-blueprints-smart-cities)
      - NASA Apollo13 = 1st Digital Twin Project 
