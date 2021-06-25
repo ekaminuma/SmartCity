@@ -22,7 +22,9 @@
 - Articles
    - 2021/5/24 CityScape | [The rise of digital twins as blueprints for smart cities](https://www.cityscape-intelligence.com/architecture/rise-digital-twins-blueprints-smart-cities)
      - NASA Apollo13 = 1st Digital Twin Project 
-     - 国連によると世界の都市人口は2050年までに70％近くまで膨れ上がり、インフラストラクチャに多大な負担をかけることになります。現在、世界中の市政府は未来の都市を構築するためデジタルツインに目を向けています。 
+     - 国連によると世界の都市人口は2050年までに70％近くまで膨れ上がり、インフラストラクチャに多大な負担をかけることになります。現在、世界中の市政府は未来の都市を構築するためデジタルツインに目を向けています。
+     - ドバイヒア=ドバイ市の地理情報システム（GIS）センターが、首長国資産,インフラストラクチャ,およびランドマークの地理空間データと地図へのアクセスを提供するeシステムを立ち上げた。ドバイのEXPOサイトにも130を超える建物をDigitalTwinのテストランとしている。
+ 
   - 2020/12/1 |東京都都市整備局都市づくり政策部| [都市の３Ｄデジタルマップの実装に向けた検討の全体像](https://www.toshiseibi.metro.tokyo.lg.jp/bunyabetsu/machizukuri//pdf/digital_3_1.pdf)  
    - [ヘルシンキ3D Cityモデル, Virtualシンガポール, バルセロナスマートシティ](https://www.toshiseibi.metro.tokyo.lg.jp/bunyabetsu/machizukuri//pdf/digital_3_2.pdf)  
   - 2020/11/16 | Microsoft | [IoT と Digital Twins で都市の環境をつなぐ](https://azure.microsoft.com/ja-jp/blog/connecting-urban-environments-with-iot-and-digital-twins/)
