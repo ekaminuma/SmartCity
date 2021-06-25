@@ -105,6 +105,42 @@ Cities Alliance
  - [G20 Global Smart Cities Alliance](https://globalsmartcitiesalliance.org/) = G20 スマートシティ都市連合
    - 22か国36都市(2021年4月) 
    - Pioneer Cities Program
+     - Apeldoorn, Netherlands  
+     - Barcelona, Spain
+     - Belfast, United Kingdom
+     - Bengaluru, India
+     - Bilbao, Spain
+     - Bogotá, Colombia
+     - Brasilia, Brazil
+     - Buenos Aires, Argentina
+     - Chattanooga, United States
+     - Cordoba, Argentina
+     - Daegu, South Korea
+     - Dubai, United Arab Emirates
+     - eThekwini (Durban), South Africa
+     - Faridabad, India
+     - Gaziantep, Turkey
+     - Hamamatsu, Japan
+     - Hyderabad, India
+     - Indore, India
+     - Istanbul, Turkey
+     - Kaga, Japan
+     - Kakogawa, Japan
+     - Kampala, Uganda
+     - Karlsruhe, Germany
+     - Leeds, United Kingdom
+     - Lisbon, Portugal
+     - London, United Kingdom
+     - Maebashi, Japan
+     - Manila, Philippines
+     - Medellín, Colombia
+     - Melbourne, Australia
+     - Mexico City, Mexico
+     - Milan, Italy
+     - Moscow, Russia
+     - Newcastle, Australia
+     - San José, United States
+     - Toronto, Canada 
  - [Carbon Neutral Cities Alliance](https://en.wikipedia.org/wiki/Carbon_Neutral_Cities_Alliance)
    - Yokohama, Japan and others 
  - [Greenfield Cities Alliance]()
