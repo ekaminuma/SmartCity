@@ -86,7 +86,12 @@
   - 2013/5 |Prandi et al(GraphiTech) |[Using citygml to deploy smart-city services for urban ecosystems](https://www.researchgate.net/publication/243055075_Using_citygml_to_deploy_smart-city_services_for_urban_ecosystems) 
    -  ISPRS - International Archives of the Photogrammetry Remote Sensing and Spatial Information Sciences Volume XL-4/W1(4)
 
+---
+Keywords
 
+ - [World Cities Day](https://en.wikipedia.org/wiki/World_Cities_Day) (31 October)
+   - 一般的テーマはBetter City、Better Lif
+   - 毎年異なるサブテーマとそのグローバルな遵守の場所が選択される(都市化の成功促進、都市化に起因する特定課題対処) 
 ---
 
 サービス等
