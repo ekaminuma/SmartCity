@@ -36,8 +36,7 @@
    - 2021/4/8 ASITE株式会社 [Digital Twin: Cities and their digital doppelgangers](https://www.asite.com/blogs/digital-twin-cities-and-their-digital-doppelgangers)
    　　- 2019年にダボスで開催された世界経済フォーラムで発表された**インドのアーンドラプラデーシュ州の首都アマラヴァティは、DigitalTwinで生まれた最初の都市と考えられている**。この都市はDigitalTwinを開発するための最新都市Hubで、シンガポール/グラスゴー/ボストンに加わった。[Amaravati Smart City - Cityzenith’s SmartWorldPro™ Digital Twin Platform Selected for New Capital City in India](https://cityzenith.com/customers/amaravati-smart-city) 
    　　- Neom（サウジアラビア）、Silk City（クウェート）、Madrid Norte（スペイン）、Nagpur（インド）
-   - 2021/4/2 [未来社会の秩序のために スマートシティ構想はテクノロジーガバナンスが鍵となる](https://forbesjapan.com/articles/detail/40556) 
-     -  
+   　　- 2021/4/2 [未来社会の秩序のために スマートシティ構想はテクノロジーガバナンスが鍵となる](https://forbesjapan.com/articles/detail/40556) 
    - 2021/3/10 [国内・海外スマートシティDX事例10選](https://iotnews.jp/archives/163399)
      - GreenField(1.中国[Baidu・Alibabaなど], 2.インド, 3.カナダトロント(Google SidewalkLab), 4.日本・静岡県裾野市[トヨタ],5.5. 日本・福岡県福岡市)
      - BrownField(1.UAE（アラブ⾸⻑国連邦）・ドバイ,2.Singapore,3.Estonia, 4.福島県会津若松市[アクセンチュアなど],5.日本横浜市[東京電力エナジーパートナーなど]) 
