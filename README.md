@@ -48,6 +48,9 @@
    - [Siemens MindSphere City Graph](https://www.siemens-advanta.com/cases/mindsphere-city-graph) 
      - 電気自動車の充電需要の予測を改善 | Aspern Smart City Research (ASCR) でロールアウト 
      - 1 か所の充電ポールの空き状況, 充電ポイントの空き状況の予測ヒート マップ
+  - 2020/11/6 [スマートシティ市場は2041年に1.7兆ドル！IDTechExのレポートを分析](https://smartcitylab.world/idtechex) 
+     - エネルギー（energy）、食糧（food）、水（water）、交通（transport）、センシング（sensing）、多用途材料（multipurpose materials）の6領域 
+     - 新技術=ロボットシャトル/ソーラー発電電気飛行機/垂直離着陸タクシー/屋上緑地/ビル型農場/ハイパーループ鉄道
   - 2020/11/2 [スマートシティ市場は2025年に2.46兆ドル！フロスト＆サリバンのレポートを分析](https://smartcitylab.world/frostsmartcity)
      -  2025年までにスマートシティ関連市場は2.46兆ドル、日本円にして257兆円にも上る
      -  2025年までに26以上の都市がスマートシティ化し、そのうち16は北米とヨーロッパに分布
