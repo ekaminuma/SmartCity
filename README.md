@@ -9,6 +9,7 @@
   - 2019/11 | Zhiwei Tang, Krishna Jayakar, Xiaodong Feng, Huiping Zhang, Rachel X. Peng (Penn State), 
 "[Identifying smart city archetypes from the bottom up: A content analysis of municipal plans](https://www.sciencedirect.com/science/article/abs/pii/S0308596118303367?via%3Dihub)", 
 Telecommunications Policy, Volume 43, Issue 10, 2019.
+  - 2013 ARCC 2013 |Joongsub Kim, Annette Lerine Steenkamp(Lawrence Technological University, Southfield, Michigan) | The Visibility of Research | "[Analysis of Smart City Models and the Four-Foci Taxonomy for Smart City Design](https://www.brikbase.org/sites/default/files/ARCC2013_UNCC_Conference_Proceedings_656.pdf)"
 
 - Conferences & Workshops
   - 2021/3/22 [AIS2C2 - First International Conference on Artificial Intelligence and Sustainable Computing for Smart Cities](http://aiscindia2021.com/)
@@ -94,6 +95,7 @@ Telecommunications Policy, Volume 43, Issue 10, 2019.
    - デジタルツインスマートシティプランニング2019＝エネルギー消費、廃棄物管理、セキュリティモニタリング、モビリティの改善、インフラストラクチャ管理はすデジタルツインを通じて改善できる分野 
    - スマートシティの価値
    - 克服すべき課題 
+  - 2016/1/26 Benson Chan and Renil Paramel| [The Smart City Ecosystem Framework – A Model for Planning Smart Cities](https://iiot-world.com/smart-cities-buildings-infrastructure/smart-cities/the-smart-city-ecosystem-framework-a-model-for-planning-smart-cities/)
   - 2015| 西脇et al(国際航業株式会社)|[スマートシティの 3D 地理空間表現とコミュニティサービスのためのデータモデル](http://ikaas.com/sites/default/files/ikaas/public/content-files/reviews/Paper5.FIT2015.pdf)
   - 2013/8/1 日本総研 [欧州の環境都市最前線～重要性を増すICTの活用～](https://www.jri.co.jp/page.jsp?id=25860)
     - 欧州のスマートシティ開発の核はICT活用
