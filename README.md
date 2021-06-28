@@ -2,7 +2,7 @@
 
 - References
   - 2021/7/1 Chun (City University of New York, Staten Island, USA), Kim, Cho, Chuang, Shin and Jun,D. (Jeonju University, South Korea) | "Framework for Smart City Model Composition: Choice of Component Design Models and Risks",  International Journal of E-Planning Research (IJEPR) 10(3), pp.20.
-  - 2021/3/29 Computational Urban Science | Deren et al.|[Smart city based on digital twins](https://link.springer.com/article/10.1007/s43762-021-00005-y)
+  - 2021/3/29 Computational Urban Science | Deren,L., Wenbo,Y. , Zhenfeng,S.  (Wuhan University)|[Smart city based on digital twins](https://link.springer.com/article/10.1007/s43762-021-00005-y)
     - デジタルツインとスマートシティの特性を分析, 5つの主要なアプリケーションに焦点
   - 2021/3/24 J of Management Science and Engineering | Deng et al.| [A systematic review of a digital twin city: A new pattern of urban governance toward smart cities](https://www.sciencedirect.com/science/article/pii/S2096232021000238) 
   - 2019/11 | Zhiwei Tang, Krishna Jayakar, Xiaodong Feng, Huiping Zhang, Rachel X. Peng, 
