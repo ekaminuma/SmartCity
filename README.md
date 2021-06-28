@@ -96,6 +96,11 @@ Telecommunications Policy, Volume 43, Issue 10, 2019.
    - スマートシティの価値
    - 克服すべき課題 
   - 2016/1/26 Benson Chan and Renil Paramel| [The Smart City Ecosystem Framework – A Model for Planning Smart Cities](https://iiot-world.com/smart-cities-buildings-infrastructure/smart-cities/the-smart-city-ecosystem-framework-a-model-for-planning-smart-cities/)
+  　　- 米国電気電子学会（IEEE）は、スマートシティを、テクノロジー、政府、社会を統合して、スマートエコノミー、スマートモビリティ、スマート環境、スマートピープル、スマートリビング、スマートガバナンスを実現する都市として想定しています。
+  　　- 世界中のスマートシティプロジェクトをスキャンしたところ、イニシアチブが1つ以上のスマートシティの「成果」に分類されたことがわかりました。
+  　　- ![](https://y6b8k9e7.stackpathcdn.com/wp-content/uploads/2018/01/smart-cities.jpg)
+  　　- スマートシティエコシステムのフレームワークを示しています。 活気に満ちた持続可能な都市とは、人、組織、企業、政策、法律、プロセスを統合して、図1に示す望ましい結果を生み出すエコシステムです。
+  　　- ![The smart city ecosystem framework.](https://y6b8k9e7.stackpathcdn.com/wp-content/uploads/2018/01/the-smart-city-ecosystem-framework.jpg)
   - 2015| 西脇et al(国際航業株式会社)|[スマートシティの 3D 地理空間表現とコミュニティサービスのためのデータモデル](http://ikaas.com/sites/default/files/ikaas/public/content-files/reviews/Paper5.FIT2015.pdf)
   - 2013/8/1 日本総研 [欧州の環境都市最前線～重要性を増すICTの活用～](https://www.jri.co.jp/page.jsp?id=25860)
     - 欧州のスマートシティ開発の核はICT活用
