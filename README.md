@@ -4,6 +4,9 @@
   - 2021/3/29 Computational Urban Science | Deren et al.|[Smart city based on digital twins](https://link.springer.com/article/10.1007/s43762-021-00005-y)
     - デジタルツインとスマートシティの特性を分析, 5つの主要なアプリケーションに焦点
   - 2021/3/24 J of Management Science and Engineering | Deng et al.| [A systematic review of a digital twin city: A new pattern of urban governance toward smart cities](https://www.sciencedirect.com/science/article/pii/S2096232021000238) 
+  - 2019/11 | Zhiwei Tang, Krishna Jayakar, Xiaodong Feng, Huiping Zhang, Rachel X. Peng, 
+"[Identifying smart city archetypes from the bottom up: A content analysis of municipal plans](https://www.sciencedirect.com/science/article/abs/pii/S0308596118303367?via%3Dihub)", 
+Telecommunications Policy, Volume 43, Issue 10, 2019.
 
 - Conferences & Workshops
   - 2021/3/22 [AIS2C2 - First International Conference on Artificial Intelligence and Sustainable Computing for Smart Cities](http://aiscindia2021.com/)
