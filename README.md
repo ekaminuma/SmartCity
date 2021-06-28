@@ -5,6 +5,7 @@
   - 2021/3/29 Computational Urban Science | Deren,L., Wenbo,Y. , Zhenfeng,S.  (Wuhan University)|[Smart city based on digital twins](https://link.springer.com/article/10.1007/s43762-021-00005-y)
     - デジタルツインとスマートシティの特性を分析, 5つの主要なアプリケーションに焦点
   - 2021/3/24 J of Management Science and Engineering | Deng et al.| [A systematic review of a digital twin city: A new pattern of urban governance toward smart cities](https://www.sciencedirect.com/science/article/pii/S2096232021000238) 
+  - 2020/2/3 Timeus K et al(ESADE Business & Law School in Barcelona, Spain), [Creating business models for smart cities: a practical framework](https://www.tandfonline.com/doi/full/10.1080/14719037.2020.1718187),Public Management Review, Vol.22, pp.726-745, 2020. 
   - 2019/11 | Zhiwei Tang, Krishna Jayakar, Xiaodong Feng, Huiping Zhang, Rachel X. Peng (Penn State), 
 "[Identifying smart city archetypes from the bottom up: A content analysis of municipal plans](https://www.sciencedirect.com/science/article/abs/pii/S0308596118303367?via%3Dihub)", 
 Telecommunications Policy, Volume 43, Issue 10, 2019.
