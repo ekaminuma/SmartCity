@@ -7,7 +7,10 @@
     - Create a City-Scale BIM Database / Train a Soft-story Building Classifier 
   - 2020/4/15 Internet Technology Letters. 2020; e187.| Bhattacharya et al., [A review on deep learning for future smart cities](https://onlinelibrary.wiley.com/doi/pdf/10.1002/itl2.187)
     -  Deep learning for URBAN MODELING FOR SMART CITIES/  INTELLIGENT INFRASTRUCTURE OF SMART CITIES /  SMART MOBILITY AND TRANSPORTATION /  SMART URBAN GOVERNANCE / RESILIENCE AND  SUSTAINABILITY OF SMART CITIES / SMART EDUCATION / SMART HEALTH SOLUTION / SECURITY AND PRIVACY OF SMART CITIES 
+  - 2019/8/19 [IoT in Smart Cities: Exploring Information Theoretic and Deep Learning Models to Improve Parking Solutions](https://ieeexplore.ieee.org/document/9060376)  
   - 2019/5 [A Survey on an Emerging Area: Deep Learning for Smart City Data](https://www.researchgate.net/publication/332423747_A_Survey_on_an_Emerging_Area_Deep_Learning_for_Smart_City_Data) 
+  - 2019/3/16 [3D cities: Deep Learning in three-dimensional space](https://medium.com/geoai/3d-cities-deep-learning-in-three-dimensional-space-29f9dafdfd73)
+  - 2017/12/11 [A deep learning model for air quality prediction in smart cities](https://ieeexplore.ieee.org/document/8258144)
   - 2016/8 [Deep Learning the City : Quantifying Urban Perception At A Global Scale](https://www.researchgate.net/publication/305983690_Deep_Learning_the_City_Quantifying_Urban_Perception_At_A_Global_Scale)
    
 - References (Digital Twin Cities)
