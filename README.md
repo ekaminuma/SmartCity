@@ -3,6 +3,7 @@
 - References (Digital Twin Cities)
   - 2021/3/29 Computational Urban Science | Deren,L., Wenbo,Y. , Zhenfeng,S.  (Wuhan University)|[Smart city based on digital twins](https://link.springer.com/article/10.1007/s43762-021-00005-y)
     - デジタルツインとスマートシティの特性を分析, 5つの主要なアプリケーションに焦点
+  - Digital Twin for Business | [Digital Twin Wind Turbin](https://assets.cdn.sap.com/sapcom/docs/2017/10/ee1fb558-da7c-0010-82c7-eda71af511fa.pdf) 
 
 - References (Smart Cities)
   - 2021/7/1 Chun (City University of New York, Staten Island, USA), Kim, Cho, Chuang, Shin and Jun,D. (Jeonju University, South Korea) | "[Framework for Smart City Model Composition: Choice of Component Design Models and Risks](https://www.igi-global.com/article/framework-for-smart-city-model-composition/269467)",  International Journal of E-Planning Research (IJEPR) 10(3), pp.20.
@@ -80,6 +81,13 @@ Telecommunications Policy, Volume 43, Issue 10, 2019.
    　　- Neom（サウジアラビア）、Silk City（クウェート）、Madrid Norte（スペイン）、Nagpur（インド）
    　　- 2021/4/2 [未来社会の秩序のために スマートシティ構想はテクノロジーガバナンスが鍵となる](https://forbesjapan.com/articles/detail/40556) 
    - 2021/4/7 [都市規模でのデジタルツインの展開](https://www.arcweb.com/ja/node/112206) 
+   - 2021/3/29 [デジタルツインは、物理的資産とインフラストラクチャ管理の未来ですか？](https://therecursive.com/are-digital-twins-the-future-of-physical-assets-and-infrastructure-management/)
+     -  MYX Roboticsは、高校の友人であるYavorMihailovとMihailGeorgievによって共同設立された、ブルガリアのAIおよびデータ分析のスタートアップであり、デジタルツインの開発と市場での商業化を専門としており、ビジネスを行う国際的な3Dデータプラットフォームを開発するというビジョンを持っています。
+     - MYXのデジタルツインの作成は、ドローン、IoTデバイス、衛星の助けを借りて行われる資産の画像データの収集から始まります。その後、データはMYX独自の自動処理パイプラインに入れられ、3D視覚化が作成されます。  
+     - ドローンと衛星を使用して農作物の広い領域の画像をキャプチャすることにより、MYXはその技術を農業に適用して企業が作物畑を監視および管理するのを支援できます。彼らのテクノロジーは、実世界の資産の3Dデジタル表現を開発し、データ分析にAIアルゴリズムを使用して、クライアントに洞察を提供することができます。このソリューションはほぼすべての業界で使用される可能性がありますが、現在のところMYXは主にインフラストラクチャ特に通信および都市インフラストラクチャ、農業、文化遺産、および不動産業界に重点を置いています。
+     - テレコムに3Dデジタルおよびインタラクティブセルタワーモデルを提供することにより、MYX Roboticsは、クライアントが遠隔予防検査を実施し、資産の正確な遠隔測定と座標を取得するのを支援し、時間を節約し、リスクを軽減します。次に、MYXのAIアルゴリズムは、調整された自動レポートを生成し、クライアントのニーズに応じて、アンテナ検出、錆検出、作物の成長などのデータと分析を提供します。 
+     - MYXのソリューションにより、ユーザーはセルタワーインフラストラクチャの計画と管理を改善し、より正確なデータ主導の意思決定を行い、人員が危険な場所の検査を行う必要がなくなります。さらに、自動化された一貫性のある分析レポートにアクセスできるため、テレコムは機器のダウンタイムを削減し、コストを最大80％節約できます。  文化遺産の保存にも使用できます。農地のデジタルツインは、正確な天気予報に使用でき、作物の所有者が肥料の監視と計画、および作物の健康管理を最適化するのに役立ちます。MYXチームは、不動産および保険セクターでのソリューションの適用性もテストしています。このテクノロジーは、不動産の遠隔検査や遠隔保守、および保険金請求のデジタル管理に使用できます。 
+
    - 2021/3/10 [国内・海外スマートシティDX事例10選](https://iotnews.jp/archives/163399)
      - GreenField(1.中国[Baidu・Alibabaなど], 2.インド, 3.カナダトロント(Google SidewalkLab), 4.日本・静岡県裾野市[トヨタ],5.5. 日本・福岡県福岡市)
      - BrownField(1.UAE（アラブ⾸⻑国連邦）・ドバイ,2.Singapore,3.Estonia, 4.福島県会津若松市[アクセンチュアなど],5.日本横浜市[東京電力エナジーパートナーなど]) 
@@ -107,6 +115,9 @@ Telecommunications Policy, Volume 43, Issue 10, 2019.
       - MicrosoftのAzure IoT DigitalTwins+AzureMapsがBentley SystemsのiTwins Platformと組み合わされる
 　　　 - エンジニア、建築家、建設業者、都市計画者が包括的な都市規模のデジタルツイン内で作業できるように
        - Dublin’s digital twin = アイルランドのDublin市は、BentleySystemsと協力して大規模なデジタルツインを開発 --> Original記事：City's Today | [ベントレーシステムズとマイクロソフトが都市のデジタルツインで提携](https://cities-today.com/bentley-systems-and-microsoft-team-up-on-digital-twins/)  
+  - 2020/5/8 [How Digital Twins Enable Intelligent Cities](https://e.huawei.com/jp/eblog/industries/insights/2020/how-digital-twins-enable-intelligent-cities)
+    - How Digital Twins Benefit Cities
+    - ![](https://e-file.huawei.com/-/media/EBG/Images/eblog/industries/how-digital-twins-enable-intelligent-cities-img01.png?la=ja)  
   - 2019/9/24 [都市がデジタルツインから恩恵を受ける7つの方法](https://www.gim-international.com/case-study/seven-ways-cities-benefit-from-digital-twins) 
      - 1.都市インフラを改善する洞察を収集する=いくつかの都市では、リアリティモデリングを使用してデジタルフットプリントを開発していますが、多くの場合、視覚的に魅力的な3Dモデルにすぎません。エンジニアリングアプリケーションとBIM機能、リポジトリとファイルシステム、またはファイル形式とスキーマが何であれ、データを統合する。このフェデレーションアプローチにより、データ駆動型の分析、モデリング、シミュレーションを備えた実用的なデジタルツインが可能になる。
      -  2.都市の利害関係者の広大なエコシステム全体でのコラボレーションを改善し、都市と住民に付加価値を生み出します=ヘルシンキ3D +プロジェクトでは、現実モデリングが重要な役割を果たし、政府が現実メッシュを提供し、プロジェクトを開発するための都市の利害関係者、市民、企業、大学、研究者にCityGML形式の3Dセマンティック情報モデルを生成できるようにします。沈没するサンフランシスコミレニアムタワーなど、地盤工学チームが問題を正すように求められています。。地下のデジタルツインは、運用や保守など、インフラストラクチャプロジェクト全体のリスクを評価および管理するために不可欠です。
