@@ -1,7 +1,10 @@
 # Smart City Research
 
 - References (AI for Cities)
+  - 2021/1/15 Advanced Engineering Informatics, Xue et al. [Semantic enrichment of Building and City Information Models: a ten-year review]() 
   - 2020/9/29 [Explainable Artificial Intelligence for Developing Smart Cities Solutions](https://www.mdpi.com/2624-6511/3/4/65/htm) 
+  - 2020/7/21 Yu et al.(UCB),[Building Information Modeling and Classification by Visual Learning At A City Scale](https://arxiv.org/pdf/1910.06391.pdf)
+    - Create a City-Scale BIM Database / Train a Soft-story Building Classifier 
   - 2020/4/15 Internet Technology Letters. 2020; e187.| Bhattacharya et al., [A review on deep learning for future smart cities](https://onlinelibrary.wiley.com/doi/pdf/10.1002/itl2.187)
     -  Deep learning for URBAN MODELING FOR SMART CITIES/  INTELLIGENT INFRASTRUCTURE OF SMART CITIES /  SMART MOBILITY AND TRANSPORTATION /  SMART URBAN GOVERNANCE / RESILIENCE AND  SUSTAINABILITY OF SMART CITIES / SMART EDUCATION / SMART HEALTH SOLUTION / SECURITY AND PRIVACY OF SMART CITIES 
   - 2019/5 [A Survey on an Emerging Area: Deep Learning for Smart City Data](https://www.researchgate.net/publication/332423747_A_Survey_on_an_Emerging_Area_Deep_Learning_for_Smart_City_Data) 
@@ -28,6 +31,14 @@
   - 2019/11 | Zhiwei Tang, Krishna Jayakar, Xiaodong Feng, Huiping Zhang, Rachel X. Peng (Penn State), 
 "[Identifying smart city archetypes from the bottom up: A content analysis of municipal plans](https://www.sciencedirect.com/science/article/abs/pii/S0308596118303367?via%3Dihub)", 
 Telecommunications Policy, Volume 43, Issue 10, 2019.
+  - 2015/1/21 Open Geospatial Consortium [OGC Smart Cities Spatial Information Framework]
+     - ISO/IEC 10746, Information Technology/Open Distributed Processing/Reference Model 
+     - Section 2 : A definition of a smart city, the indicators for assessing the value of deploying the technology
+     - Section 3 : Outlining the spatial information and data that is needed in a smart city.
+     - Section 4 : Interfaces and workflows pertinent to a achieve interoperability 
+     - Section 5 : Spatial Information Framework in cities
+     - ISO 37120 defines methodologies for a set of indicators to steer and measure the performance of city services and QOL. 
+     - Indicators ( Economy / Education / Energy / Environment /Recreation /Safety / Shelter / Solid waste / Telecommunication / Finane / Fire and emergence / Governance / Health / Transportation / Urban planning / Wastewater / Water and sanitation )
   - 2013 ARCC 2013 |Joongsub Kim, Annette Lerine Steenkamp(Lawrence Technological University, Southfield, Michigan) | The Visibility of Research | "[Analysis of Smart City Models and the Four-Foci Taxonomy for Smart City Design](https://www.brikbase.org/sites/default/files/ARCC2013_UNCC_Conference_Proceedings_656.pdf)"
 
 - Conferences & Workshops
