@@ -1,9 +1,11 @@
 # Smart City Research
 
 - References (AI for Cities)
- - 2020/9/29 [Explainable Artificial Intelligence for Developing Smart Cities Solutions](https://www.mdpi.com/2624-6511/3/4/65/htm) 
- - 2019/5 [A Survey on an Emerging Area: Deep Learning for Smart City Data](https://www.researchgate.net/publication/332423747_A_Survey_on_an_Emerging_Area_Deep_Learning_for_Smart_City_Data) 
- - 2016/8 [Deep Learning the City : Quantifying Urban Perception At A Global Scale](https://www.researchgate.net/publication/305983690_Deep_Learning_the_City_Quantifying_Urban_Perception_At_A_Global_Scale)
+  - 2020/9/29 [Explainable Artificial Intelligence for Developing Smart Cities Solutions](https://www.mdpi.com/2624-6511/3/4/65/htm) 
+  - 2020/4/15 Internet Technology Letters. 2020; e187.| Bhattacharya et al., [A review on deep learning for future smart cities](https://onlinelibrary.wiley.com/doi/pdf/10.1002/itl2.187)
+    -  Deep learning for URBAN MODELING FOR SMART CITIES/  INTELLIGENT INFRASTRUCTURE OF SMART CITIES /  SMART MOBILITY AND TRANSPORTATION /  SMART URBAN GOVERNANCE / RESILIENCE AND  SUSTAINABILITY OF SMART CITIES / SMART EDUCATION / SMART HEALTH SOLUTION / SECURITY AND PRIVACY OF SMART CITIES 
+  - 2019/5 [A Survey on an Emerging Area: Deep Learning for Smart City Data](https://www.researchgate.net/publication/332423747_A_Survey_on_an_Emerging_Area_Deep_Learning_for_Smart_City_Data) 
+  - 2016/8 [Deep Learning the City : Quantifying Urban Perception At A Global Scale](https://www.researchgate.net/publication/305983690_Deep_Learning_the_City_Quantifying_Urban_Perception_At_A_Global_Scale)
    
 - References (Digital Twin Cities)
   - 2021/3/20  [City information model for the optimization of urban maintenance cost](https://aip.scitation.org/doi/pdf/10.1063/5.0047779) 都市情報モデル（CIM）を作成するために、GISシステムとBIMシステムを統合することにより、メンテナンスコストを最適化する方法論を提示
