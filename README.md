@@ -1,9 +1,11 @@
 # Smart City Research
 
-- References
-  - 2021/7/1 Chun (City University of New York, Staten Island, USA), Kim, Cho, Chuang, Shin and Jun,D. (Jeonju University, South Korea) | "[Framework for Smart City Model Composition: Choice of Component Design Models and Risks](https://www.igi-global.com/article/framework-for-smart-city-model-composition/269467)",  International Journal of E-Planning Research (IJEPR) 10(3), pp.20.
+- References (Digital Twin Cities)
   - 2021/3/29 Computational Urban Science | Deren,L., Wenbo,Y. , Zhenfeng,S.  (Wuhan University)|[Smart city based on digital twins](https://link.springer.com/article/10.1007/s43762-021-00005-y)
     - デジタルツインとスマートシティの特性を分析, 5つの主要なアプリケーションに焦点
+
+- References (Smart Cities)
+  - 2021/7/1 Chun (City University of New York, Staten Island, USA), Kim, Cho, Chuang, Shin and Jun,D. (Jeonju University, South Korea) | "[Framework for Smart City Model Composition: Choice of Component Design Models and Risks](https://www.igi-global.com/article/framework-for-smart-city-model-composition/269467)",  International Journal of E-Planning Research (IJEPR) 10(3), pp.20.
   - 2021/3/24 J of Management Science and Engineering | Deng T, Zhanga K, Shen Z(Tsinghua University,UCB)| [A systematic review of a digital twin city: A new pattern of urban governance toward smart cities](https://www.sciencedirect.com/science/article/pii/S2096232021000238) 
   - 2020/2/3 Timeus K et al(ESADE Business & Law School in Barcelona, Spain), [Creating business models for smart cities: a practical framework](https://www.tandfonline.com/doi/full/10.1080/14719037.2020.1718187),Public Management Review, Vol.22, pp.726-745, 2020. 
   - 2019/11 | Zhiwei Tang, Krishna Jayakar, Xiaodong Feng, Huiping Zhang, Rachel X. Peng (Penn State), 
@@ -26,6 +28,10 @@ Telecommunications Policy, Volume 43, Issue 10, 2019.
     - [City's Today](https://cities-today.com/bentley-systems-and-microsoft-team-up-on-digital-twins/) - 持続可能な都市開発に関する分析、コメント、ベストプラクティスを掲載。米国の地方自治体と公的および民間セクターの課題解決のためのグローバルマガジン。モビリティ、スマートテクノロジー、安全性とセキュリティ、レジリエンスにおいて都市のリーダーや地方自治体が直面している課題と機会に焦点を当てている。
 
 - Articles
+   - 2021/6/17 Kasirajan in geospatialworld.net | [デジタル都市-接続された都市インフラストラクチャのためのデジタルツイン](https://www.geospatialworld.net/blogs/digital-cities-digital-twins-for-connected-city-infrastructure/)
+     - デジタルツインの役割は、物理インフラストラクチャのデジタル表現から包括的なソリューションプロバイダーへと進化した。 
+     - ライフサイクルのすべてのフェーズにわたってインフラストラクチャ管理ソリューションを提供できる。
+      - 設計から実行までのフェーズ、運用と保守（O＆M）フェーズ、ローカルインフラストラクチャの改善または拡張など 
    - 2021/6/8 平山雄太 [スマートシティの世界動向](http://www.bbt757.com/servlet/content/46335.html) 
    - 2021/6/7 中村彰二朗 [未来都市に移住する「グリーンフィールド型」スーパーシティの要件](https://dcross.impress.co.jp/docs/column/column20210226/002480.html)　 
    - 2021/5/24 CityScape | [The rise of digital twins as blueprints for smart cities](https://www.cityscape-intelligence.com/architecture/rise-digital-twins-blueprints-smart-cities)
