@@ -7,6 +7,7 @@
 - References (Smart Cities)
   - 2021/7/1 Chun (City University of New York, Staten Island, USA), Kim, Cho, Chuang, Shin and Jun,D. (Jeonju University, South Korea) | "[Framework for Smart City Model Composition: Choice of Component Design Models and Risks](https://www.igi-global.com/article/framework-for-smart-city-model-composition/269467)",  International Journal of E-Planning Research (IJEPR) 10(3), pp.20.
   - 2021/3/24 J of Management Science and Engineering | Deng T, Zhanga K, Shen Z(Tsinghua University,UCB)| [A systematic review of a digital twin city: A new pattern of urban governance toward smart cities](https://www.sciencedirect.com/science/article/pii/S2096232021000238) 
+  - 2020 Goyal et al 2020 IOP Conf. Ser.: Mater. Sci. Eng. 955 012010 |[Use of BIM in Development of Smart Cities: A Review](https://iopscience.iop.org/article/10.1088/1757-899X/955/1/012010) 
   - 2020/2/3 Timeus K et al(ESADE Business & Law School in Barcelona, Spain), [Creating business models for smart cities: a practical framework](https://www.tandfonline.com/doi/full/10.1080/14719037.2020.1718187),Public Management Review, Vol.22, pp.726-745, 2020. 
   - 2019/11 | Zhiwei Tang, Krishna Jayakar, Xiaodong Feng, Huiping Zhang, Rachel X. Peng (Penn State), 
 "[Identifying smart city archetypes from the bottom up: A content analysis of municipal plans](https://www.sciencedirect.com/science/article/abs/pii/S0308596118303367?via%3Dihub)", 
@@ -28,6 +29,11 @@ Telecommunications Policy, Volume 43, Issue 10, 2019.
     - [City's Today](https://cities-today.com/bentley-systems-and-microsoft-team-up-on-digital-twins/) - 持続可能な都市開発に関する分析、コメント、ベストプラクティスを掲載。米国の地方自治体と公的および民間セクターの課題解決のためのグローバルマガジン。モビリティ、スマートテクノロジー、安全性とセキュリティ、レジリエンスにおいて都市のリーダーや地方自治体が直面している課題と機会に焦点を当てている。
 
 - Articles
+   - [スマートシティのための都市情報モデリング](https://urbannext.net/zigurat/city-information-modeling-for-smarter-cities/)
+     - 主要なBIMソフトウェアベンダーであるAutodeskとBentleyは、テクノロジーの提供をCIMに拡大しました。
+       - AutoDeskは、コペンハーゲン、バルセロナ、韓国のU-Cityでのケーススタディを使用
+       - Bentleyは、モントリオール、ヘルシンキ、シンガポールの大規模な都市モデリングプロジェクトで広く使用されています。  
+       - CIMは人気を集めています。これは今後のトレンドであり、採用しない人は世界の建設市場で遅れをとるリスクがあります。 
    - 2021/6/17 Kasirajan in geospatialworld.net | [デジタル都市-接続された都市インフラストラクチャのためのデジタルツイン](https://www.geospatialworld.net/blogs/digital-cities-digital-twins-for-connected-city-infrastructure/)
    　-　デジタルツインとAIおよびビッグデータの統合は、予知保全の実装を通じてインフラストラクチャの運用を最適化、O＆Mコストを削減 
    　　　-　たとえばユーティリティプロバイダー（テレコム、エネルギーなど）は、ワークフローの識別にデジタルツインアプリケーションを利用して、運用コストを削減し、資産管理の重大な問題を検出する（例：デジタルツイン洋上風力発電所）。
@@ -40,6 +46,22 @@ Telecommunications Policy, Volume 43, Issue 10, 2019.
      - デジタルツインは多様な情報セット（Geospatial、Engg。、O＆Mを含む）を集約する役割を果たす。
      - ライフサイクルのすべてのフェーズにわたってインフラストラクチャ管理ソリューションを提供できる。
       - 設計から実行までのフェーズ、運用と保守（O＆M）フェーズ、ローカルインフラストラクチャの改善または拡張など 
+   - 2021/6/8 [デジタルツインテクノロジーの適用は都市やAECを超える]
+     - Digital Twinは、物理システムとその仮想表現で構成
+     - それらの間を流れるデータが重要＝リアルタイムデータ接続で、仮想ツインを物理ツインと可能な限り同期
+       - 1. 航空：デジタルツイン飛行機はIoTの位置とセンサーデータの助けを借りて気象環境条件でテストできる。
+       - 2. 石油とガス: 石油とガスの生産システムの仮想表現を作成し、潜在的に危険な操作を安全環境で評価
+       - 3. ユーティリティ(電力・ガス・水道など公益事業): エネルギー消費のシミュレーションでエネルギー需要を予測
+       - 4. サプライチェーン: サプライヤ、工場、委託製造業者、流通施設、輸送レーンおよび顧客の場所を1つの仮想エコシステムにカプセル化. リスク評価や需要予測。
+       - 5. ヘルスケア：臨床研究における実際の患者ベースラインデータに基づいて仮想患者を作成。機械学習の助けを借りて同時に数十患者の特徴をシミュレート。これにより、新薬の開発にかかる時間が短縮。
+       - 6. 防衛：ベンダーのハードウェアコンポーネントのデジタルサロゲートを使用した重要なミッションシミュレーションが可能、物理ハードウェアテストのリスクが軽減。
+     - 2021年10月20-22日にアムステルダムで開催される地理空間世界フォーラム2021＝デジタルツインに重点。地理空間基盤とデジタルツイン：サーキュラーエコノミーの強化。 
+     　  - [Interactive 3D Zoning](https://geospatialworldforum.org/2019/speakers-bio.asp?id=gwf2019A106) 建物をローカルのゾーニング規則に自動的に適応。アプリケーションは間違いについて警告し（たとえば、容積率が高すぎる場合、または建物が近すぎる場合）、すべての主要な都市パラメータ（たとえば、総床面積、必要な駐車スペース）を計算。 建物の不適切な配置に起因するミスの数（3.5分の1）と分散（2.2分の1）の両方を削減。
+         - [仮想ヨーテボリ市](https://geospatialworldforum.org/2019/speakers-bio.asp?id=gwf2019A163) 
+         - [3Dロッテルダム](https://geospatialworldforum.org/2019/speakers-bio.asp?id=gwf2019A150) 建物のテクスチャ3Dモデル,CityGML2.0,SIG3Dガイドラインに準拠(SIG3Dは、3Dの建物や風景の相互運用可能なセマンティックモデルのOGC標準化プロセス)。CityGMLはSIG3Dによって開発され、OGCによって標準化されました。Avineonは、LiDARデータを使用して、半自動で建物を作成しました。最初に、LiDARデータ分類が拡張され、より優れた自動モデリング結果が得られました。これに続いて、ステレオ画像から手動で複雑な建物（教会など）を作成しました。
+         - [ヴァイレ市のバーチャルリアリティ洞窟](https://geospatialworldforum.org/2019/speakers-bio.asp?id=gwf2019A108) ヴァイレ市は、市のラボに1：1のバーチャルリアリティ洞窟を設置して、市内の将来のプロジェクトを展示および討論しています。建物や計画の現実的なモデルは、建築家でない人にとってははるかに理解しやすいものです。すべての参加者が未来の同じ絵を得ることができる。訪問者は、提供されているx-boxコントローラーを使用して、自分のペースでデータを調べることができます。モデルは年中無休で一般公開。
+     - 都市と建設業界は、デジタルツインテクノロジーから大きな恩恵を受けている
+     - 建物、道路、鉄道、または都市全体などの物理的資産のデジタル表現 
    - 2021/6/8 平山雄太 [スマートシティの世界動向](http://www.bbt757.com/servlet/content/46335.html) 
    - 2021/6/7 中村彰二朗 [未来都市に移住する「グリーンフィールド型」スーパーシティの要件](https://dcross.impress.co.jp/docs/column/column20210226/002480.html)　 
    - 2021/5/24 CityScape | [The rise of digital twins as blueprints for smart cities](https://www.cityscape-intelligence.com/architecture/rise-digital-twins-blueprints-smart-cities)
@@ -109,6 +131,15 @@ Telecommunications Policy, Volume 43, Issue 10, 2019.
    - デジタルツインスマートシティプランニング2019＝エネルギー消費、廃棄物管理、セキュリティモニタリング、モビリティの改善、インフラストラクチャ管理はすデジタルツインを通じて改善できる分野 
    - スマートシティの価値
    - 克服すべき課題 
+  - 2018/11/29 [FROM BIM TO CIM: WHY BUILDING AND CITY INFORMATION MODELLING ARE ESSENTIAL TO SMART CITIES](https://hub.beesmart.city/en/solutions/from-bim-to-cim-essential-to-smart-cities)
+    - CENTRALIZING INFORMATION AND PLACING IT IN CONTEXT
+    - INCREASING COLLABORATION AND COOPERATION
+    - MINIMIZING RISK
+    - EMPOWERING CITIZENS   
+    - IMPROVING PRODUCTIVITY, EFFICIENCY AND RESULTS
+    - MAKING CITIES MORE ENVIRONMENTALLY AND SOCIALLY SUSTAINABLE
+  - 2016/8/8 [Future cities, smart cities and building information modeling](https://www.geospatialworld.net/article/future-cities-smart-cities-bim/)
+    - ![](https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2016/07/BIM-is-not-CAD-935x420.jpg) 
   - 2016/1/26 Benson Chan and Renil Paramel| [The Smart City Ecosystem Framework – A Model for Planning Smart Cities](https://iiot-world.com/smart-cities-buildings-infrastructure/smart-cities/the-smart-city-ecosystem-framework-a-model-for-planning-smart-cities/)
   　　- 米国電気電子学会（IEEE）は、スマートシティを、テクノロジー、政府、社会を統合して、スマートエコノミー、スマートモビリティ、スマート環境、スマートピープル、スマートリビング、スマートガバナンスを実現する都市として想定しています。
   　　- 世界中のスマートシティプロジェクトをスキャンしたところ、イニシアチブが1つ以上のスマートシティの「成果」に分類されたことがわかりました。
@@ -125,6 +156,9 @@ Telecommunications Policy, Volume 43, Issue 10, 2019.
 ---
 Keywords
 
+ - CIM (city information modelling)＝[都市情報モデリング](https://geospatialworldforum.org/2019/program-geospatial-gis-Smart-Cities.asp#session2)
+   -  スマートシティの動きとは、より適切に計画され、より接続され、より住みやすい都市を作成すること
+   -  CIMでは、一般にビルディングインフォメーションや、建物、道路、公共スペース（オープンデータ）、街灯（センサー/ IoT）、さらには人々などさまざまなシティコンポーネントのコンテキストデータソースまたは分析ツールに接続する3Dシティモデルを構築する。建築データをCIMに接続することにより、建築家とプランナーは、インタラクティブでコンテンツが豊富な3D都市モデル環境にアクセスできる。このようなデータリポジトリは、長期的にはデータ駆動型のポリシー、意思決定、および全体的な都市ガバナンスを生成するための都市にとって非常に貴重な資産になる。
  - [World Cities Day](https://en.wikipedia.org/wiki/World_Cities_Day) (31 October)
    - 一般的テーマはBetter City、Better Lif
    - 毎年異なるサブテーマとそのグローバルな遵守の場所が選択される(都市化の成功促進、都市化に起因する特定課題対処) 
