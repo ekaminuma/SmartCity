@@ -1,8 +1,21 @@
 # Smart City Research
 
+- References (AI for Cities)
+ - 2020/9/29 [Explainable Artificial Intelligence for Developing Smart Cities Solutions](https://www.mdpi.com/2624-6511/3/4/65/htm) 
+ - 2019/5 [A Survey on an Emerging Area: Deep Learning for Smart City Data](https://www.researchgate.net/publication/332423747_A_Survey_on_an_Emerging_Area_Deep_Learning_for_Smart_City_Data) 
+ - 2016/8 [Deep Learning the City : Quantifying Urban Perception At A Global Scale](https://www.researchgate.net/publication/305983690_Deep_Learning_the_City_Quantifying_Urban_Perception_At_A_Global_Scale)
+   
 - References (Digital Twin Cities)
+  - 2021/3/20  [City information model for the optimization of urban maintenance cost](https://aip.scitation.org/doi/pdf/10.1063/5.0047779) 都市情報モデル（CIM）を作成するために、GISシステムとBIMシステムを統合することにより、メンテナンスコストを最適化する方法論を提示
   - 2021/3/29 Computational Urban Science | Deren,L., Wenbo,Y. , Zhenfeng,S.  (Wuhan University)|[Smart city based on digital twins](https://link.springer.com/article/10.1007/s43762-021-00005-y)
     - デジタルツインとスマートシティの特性を分析, 5つの主要なアプリケーションに焦点
+  - 2020/10/24 [Roads Infrastructure Digital Twin: A Step Toward Smarter Cities Realization](https://ieeexplore.ieee.org/document/9267778) 
+  - 2020/7 [Architecting Smart City Digital Twins: Combined Semantic Model and Machine Learning Approach](https://www.researchgate.net/publication/340581298_Architecting_Smart_City_Digital_Twins_Combined_Semantic_Model_and_Machine_Learning_Approach)
+    - 建物のエネルギー消費を監視するためのセマンティックとMLを組み合わせたアプローチの調査
+    - データの収集と処理、イベント識別、意思決定自動化において補完的役割を提供するために、意味知識表現と推論、および機械学習の形式をサポートするパスを提案 
+  - 2020/1 [The Convergence of Digital Twin, IoT, and Machine Learning: Transforming Data into Action](https://www.researchgate.net/publication/334636822_The_Convergence_of_Digital_Twin_IoT_and_Machine_Learning_Transforming_Data_into_Action)
+  - 2020/1 [Knowledge Discovery in Smart City Digital Twins](https://pdfs.semanticscholar.org/eaa8/4b4bf8b840d8ab16034ae5c74978611328f4.pdf?_ga=2.173403238.498227901.1624947223-649362737.1624947223)
+  - [City Information Modelling: Digital Planning for Sustainable Cities](https://www.alexandrinepress.co.uk/built-environment/editorial-city-information-modelling-digital-planning-sustainable-cities)
   - Digital Twin for Business | [Digital Twin Wind Turbin](https://assets.cdn.sap.com/sapcom/docs/2017/10/ee1fb558-da7c-0010-82c7-eda71af511fa.pdf) 
 
 - References (Smart Cities)
