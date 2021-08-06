@@ -24,8 +24,13 @@
   - 2020/1 [The Convergence of Digital Twin, IoT, and Machine Learning: Transforming Data into Action](https://www.researchgate.net/publication/334636822_The_Convergence_of_Digital_Twin_IoT_and_Machine_Learning_Transforming_Data_into_Action)
   - 2020/1 [Knowledge Discovery in Smart City Digital Twins](https://pdfs.semanticscholar.org/eaa8/4b4bf8b840d8ab16034ae5c74978611328f4.pdf?_ga=2.173403238.498227901.1624947223-649362737.1624947223)
   - [City Information Modelling: Digital Planning for Sustainable Cities](https://www.alexandrinepress.co.uk/built-environment/editorial-city-information-modelling-digital-planning-sustainable-cities)
-  - Digital Twin for Business | [Digital Twin Wind Turbin](https://assets.cdn.sap.com/sapcom/docs/2017/10/ee1fb558-da7c-0010-82c7-eda71af511fa.pdf) 
-
+  - Digital Twin for Business | [Digital Twin Wind Turbin](https://assets.cdn.sap.com/sapcom/docs/2017/10/ee1fb558-da7c-0010-82c7-eda71af511fa.pdf) - 東京都デジタルツイン実現プロジェクト
+  - [都市の３Dデジタルマップ化の推進](https://note.com/tokyo_tech/n/n9f15e4ab9d08)
+  - [東京都デジタルツインサイト](https://www.digitalservice.metro.tokyo.lg.jp/society5.0/digitaltwin.html)
+  - [東京TECHブログ（東京都技術会議）](https://note.com/tokyo_tech)
+  - [東京都が「デジタルツイン」の3Dマップを作成、GitHubでソースコードも公開](https://www.itmedia.co.jp/news/articles/2108/02/news139.html)
+  - 2021/8/5 [第2回「東京都における『都市のデジタルツイン』社会実装に向けた検討会」](https://prtimes.jp/main/html/rd/p/000002073.000052467.html)
+  - 2021/8/3 [東京都「3D都市モデル」のWebビューアを公開。デジタルツインプロジェクト](https://www.watch.impress.co.jp/docs/news/1341895.html)
 - References (Smart Cities)
   - 2021/7/1 Chun (City University of New York, Staten Island, USA), Kim, Cho, Chuang, Shin and Jun,D. (Jeonju University, South Korea) | "[Framework for Smart City Model Composition: Choice of Component Design Models and Risks](https://www.igi-global.com/article/framework-for-smart-city-model-composition/269467)",  International Journal of E-Planning Research (IJEPR) 10(3), pp.20.
   - 2021/3/24 J of Management Science and Engineering | Deng T, Zhanga K, Shen Z(Tsinghua University,UCB)| [A systematic review of a digital twin city: A new pattern of urban governance toward smart cities](https://www.sciencedirect.com/science/article/pii/S2096232021000238) 
