@@ -24,7 +24,9 @@
   - 2020/1 [The Convergence of Digital Twin, IoT, and Machine Learning: Transforming Data into Action](https://www.researchgate.net/publication/334636822_The_Convergence_of_Digital_Twin_IoT_and_Machine_Learning_Transforming_Data_into_Action)
   - 2020/1 [Knowledge Discovery in Smart City Digital Twins](https://pdfs.semanticscholar.org/eaa8/4b4bf8b840d8ab16034ae5c74978611328f4.pdf?_ga=2.173403238.498227901.1624947223-649362737.1624947223)
   - [City Information Modelling: Digital Planning for Sustainable Cities](https://www.alexandrinepress.co.uk/built-environment/editorial-city-information-modelling-digital-planning-sustainable-cities)
-  - Digital Twin for Business | [Digital Twin Wind Turbin](https://assets.cdn.sap.com/sapcom/docs/2017/10/ee1fb558-da7c-0010-82c7-eda71af511fa.pdf) - 東京都デジタルツイン実現プロジェクト
+  - Digital Twin for Business | [Digital Twin Wind Turbin](https://assets.cdn.sap.com/sapcom/docs/2017/10/ee1fb558-da7c-0010-82c7-eda71af511fa.pdf) 
+
+- 東京都デジタルツイン実現プロジェクト
   - [都市の３Dデジタルマップ化の推進](https://note.com/tokyo_tech/n/n9f15e4ab9d08)
   - [東京都デジタルツインサイト](https://www.digitalservice.metro.tokyo.lg.jp/society5.0/digitaltwin.html)
   - [東京TECHブログ（東京都技術会議）](https://note.com/tokyo_tech)
